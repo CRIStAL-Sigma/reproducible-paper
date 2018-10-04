@@ -5,7 +5,7 @@ This repository (repo) is an illustrative example for the `reproducible research
 
 Imagine you are doing research and you wish write a collaborative paper or more simply a note with other people.
 
-Since you are a researcher you hopefully use **LaTex**, don't you ?
+Since you are a researcher you hopefully use **LaTeX**, don't you?
 
 Contents
 ********
