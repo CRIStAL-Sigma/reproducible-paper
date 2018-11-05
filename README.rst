@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/CRIStAL-Sigma/reproducible-paper.svg?branch=master
+    :target: https://travis-ci.org/CRIStAL-Sigma/reproducible-paper
+
 A minimal working example of writing a collaborative paper
 ###########################################################
 

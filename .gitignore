@@ -3,6 +3,8 @@
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
+# add .aux for Travis to display links
+!tex/paper.aux
 *.lof
 *.log
 *.lot
@@ -31,6 +33,8 @@ tex/*.pdf
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
+# add .bbl for Travis to display biblio and cite links
+!tex/paper.bbl
 *.bcf
 *.blg
 *-blx.aux
